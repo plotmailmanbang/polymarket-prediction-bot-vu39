@@ -1,4 +1,4 @@
-# 
+# rare Trading Bot for Polymarket - arbitrage-detection and gas-optimization is the best Polymarket trading-bot, featuring arbitrage-detection and gas-optimization. Smart, fast, and
 
 
 
